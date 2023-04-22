@@ -18,10 +18,10 @@ function App() {
         >
           Learn React
         </a> */}
-        <Weather/>
+        <Weather />
       </header>
     </div>
   );
 }
-
+// update
 export default App;
